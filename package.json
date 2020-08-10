@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/codemaster138/xtender-base/issues"
   },
-  "homepage": "https://github.com/codemaster138/xtender-base#readme"
+  "homepage": "https://github.com/codemaster138/xtender-base#readme",
+  "dependencies": {
+    "debug": "^4.1.1"
+  }
 }
